@@ -1,1 +1,1 @@
-web: bundle exec puma -p $PORT
+web: bundle exec thin -p 5000 start
