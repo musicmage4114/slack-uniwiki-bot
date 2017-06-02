@@ -5,7 +5,6 @@ gem 'thin'
 gem 'sinatra'
 gem 'dotenv'
 gem 'celluloid-io'
-gem 'eventmachine'
 
 group :development, :test do
   gem 'rake'
